@@ -2,4 +2,4 @@
 /.ipynb_checkpoints
 /.vs
 /.vscode
-/__pycache__
+./__pycache__
